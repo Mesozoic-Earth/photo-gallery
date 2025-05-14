@@ -23,9 +23,9 @@ Code reviews can be found in the code-review.md file.
 ## Second level heading
 
 ### Third level heading
-**bold text**
-*italic text*
-~~Strikethrough text~~
+**bold text**<br>
+*italic text*<br>
+~~Strikethrough text~~<br>
 ``<p> Mesozoic Code</p>
 ```
 
